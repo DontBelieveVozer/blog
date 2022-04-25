@@ -16,6 +16,7 @@ categories: tutorial
 ### TABLE
 
 input:
+
 ```
 a | b
 --- | ---
