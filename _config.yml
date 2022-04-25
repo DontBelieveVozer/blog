@@ -63,4 +63,4 @@ defaults:
     values:
       layout: "post"
       
-# permalink: /:title 
+permalink: /:title 
