@@ -4,22 +4,21 @@ title: Change font & create table
 categories: tutorial
 ---
 
+`# h1` -> # h1
+`## h2` -> ## h2
+`### h3` -> ### h3
+`#### h4` -> #### h4
+`##### h5` -> ##### h5
+`###### h6` -> ###### h6
+
 ```
-input | output
+a | b
 --- | ---
-# h1 | extra large
-## h2 | very large
-### h3 | large
-#### h4 |  medium
-##### h5 | small
-###### h6 | very small
+c | d
+e | f
 ```
 
-input | output
+a | b
 --- | ---
-`# h1` | # h1
-`## h2` | ## h2
-`### h3` | ### h3
-`#### h4` | #### h4
-`##### h5` | ##### h5
-`###### h6` | ###### h6
+c | d
+e | f
