@@ -1,7 +1,7 @@
 ---
 layout: post
 title: font & table
-categories: tutorial
+categories: general tutorial
 ---
 
 #### FONT
