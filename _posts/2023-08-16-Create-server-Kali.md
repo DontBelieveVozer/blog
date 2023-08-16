@@ -24,7 +24,7 @@ Kiểm tra dịch vụ Apache đã được kích hoạt chưa:
 ```
 Sudo service apache2 status
 ```
-Nếu chưa sẽ hiển thị: 'inactive(dead)'<br/>
+Nếu chưa sẽ hiển thị: `inactive(dead)`<br/>
 Kích hoạt lại dịch vụ apche2 
 ```
 Sudo service apache2 start
