@@ -5,7 +5,7 @@ categories: general tutorial
 ---
 
 Tạo máy chủ kali linux để lưu trữ file
-![bridge](Screenshot 2023-08-16 133938.png)
+![bridge](133938.png)
 Hai máy windows + kali đều dùng bridge
 
 Cài đặt Apache:
