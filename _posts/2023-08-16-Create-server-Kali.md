@@ -25,12 +25,12 @@ Kiểm tra dịch vụ Apache đã được kích hoạt chưa:
 Sudo service apache2 status
 ```
 Nếu chưa sẽ hiển thị: `inactive(dead)`<br/>
-Kích hoạt lại dịch vụ apche2 
+Kích hoạt lại dịch vụ apche2:
 ```
 Sudo service apache2 start
 ```
 
-Kiểm tra ip kali linux ```ifconfig```
+Kiểm tra ip kali linux: `ifconfig`
 
 Truy cập server từ windows bằng cách nhập ip kali linux
 
@@ -39,12 +39,12 @@ Truy cập server từ windows bằng cách nhập ip kali linux
 sudo mv /home/user/file /var/www/html/
 ```
 
-Cho phép file tải về
+Cho phép file tải về:
 ```
 sudo chmod o+r /var/www/html/file
 ```
 
-tải nội dung file về winfows
+tải nội dung file về winfows:
 ```
 curl http://địa_chỉ_IP_của_máy_Kali_Linux/file
 ```
