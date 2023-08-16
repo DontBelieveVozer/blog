@@ -4,7 +4,7 @@ title: Tạo máy chủ kali linux để lưu trữ file
 categories: general tutorial
 ---
 
-Tạo máy chủ kali linux để lưu trữ file
+Tạo máy chủ kali linux để lưu trữ file<br/>
 Hai máy windows + kali đều dùng bridge
 
 Cài đặt Apache:
@@ -26,7 +26,7 @@ Kiểm tra dịch vụ Apache đã được kích hoạt chưa:
 ```
 Sudo service apache2 status
 ```
-Nếu chưa sẽ hiển thị <br/>
+Nếu chưa sẽ hiển thị<br/>
 Kích hoạt lại dịch vụ apche2 
 ```
 Sudo service apache2 start
