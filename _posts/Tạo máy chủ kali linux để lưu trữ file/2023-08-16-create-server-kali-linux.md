@@ -3,7 +3,7 @@ layout: post
 title: Tạo máy chủ kali linux để lưu trữ file
 categories: general tutorial
 ---
-Hai máy windows + kali đều dùng bridge<br/>
+Network adapter: bridged
 
 Cài đặt Apache:
 ```
