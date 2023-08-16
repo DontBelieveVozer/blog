@@ -4,8 +4,8 @@ title: Tạo máy chủ kali linux để lưu trữ file
 categories: general tutorial
 ---
 
-Tạo máy chủ kali linux để lưu trữ file
-![bridge](133938.png)
+Tạo máy chủ kali linux để lưu trữ file<br/>
+![bridge](133938.png)<br/>
 Hai máy windows + kali đều dùng bridge
 
 Cài đặt Apache:
